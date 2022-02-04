@@ -2,7 +2,7 @@
 
 ## Now with GIFs!
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Cute Cat Gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Loging In
 
@@ -15,6 +15,8 @@ In the dropdown menu, click on the button クラス管理 (Classroom/Class manag
 ## Making a Class
 
 ### Naming and Making
+
+![Making a class gif](Brix-Make-Class.gif)
 
 1. Click on the クラス追加 button in the top middle of the page.
 2. Enter the name of your class and select when your class will start and finish
