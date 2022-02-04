@@ -16,7 +16,8 @@ In the dropdown menu, click on the button クラス管理 (Classroom/Class manag
 
 ### Naming and Making
 
-![Making a class gif](https://github.com/JAC-1/Brix-Tutorial/tree/gh-pages/docs/assets/Brix-Make-Class.gif)
+
+![Making a class gif](/docs/assets/Brix-Make-Class.gif)
 
 1. Click on the クラス追加 button in the top middle of the page.
 2. Enter the name of your class and select when your class will start and finish
@@ -53,7 +54,7 @@ _there will be a warning that will pop-up. Don't worry, it just says "Oh by the 
 4. Find the course you want and click the 選択 button
 5. Click the　共有 button and accept the warning that pops up
 
-<img src="/docs/assets/Brix-Course-Selection.gif" alt="Course Selection Gif" width="700">
+![Course Selection Gif](/docs/assets/Brix-Course-Selection.gif)
 
 
 ### Adding Due Dates
@@ -70,7 +71,8 @@ The number of sections and the section type (test, lesson, etc.) varies.
 6. Once you have a list you can work with, click the calendar icon for the respective unit and choose the start and end date for each unit 
 7. Once you are finished, click the 登録 button near the bottom of the page
 
-<img src="/docs/assets/Brix-Unit-Due-Date.gif" alt="Due Date gif " width="700">
+![Due Date gif](/docs/assets/Brix-Unit-Due-Date.gif)
+
 
 ### Adding Goals
 
@@ -93,6 +95,7 @@ The Brix system requires goals for each course/learning material you selected.
 5. Finally click the 登録 button and click all the red pop-up buttons
 
 
-<img src="/docs/assets/Brix-Course-Goals.gif" alt="Adding student gif" width="700">
+![Adding student gif](/docs/assets/Brix-Course-Goals.gif)
+
 
 ## <i>And your done!<i>
