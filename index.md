@@ -16,7 +16,7 @@ In the dropdown menu, click on the button クラス管理 (Classroom/Class manag
 
 ### Naming and Making
 
-![Making a class gif](/docs/assets/Brix-Make-Class.gif)
+![Making a class gif](https://github.com/JAC-1/Brix-Tutorial/tree/gh-pages/docs/assets/Brix-Make-Class.gif)
 
 1. Click on the クラス追加 button in the top middle of the page.
 2. Enter the name of your class and select when your class will start and finish
