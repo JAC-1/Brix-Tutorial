@@ -16,7 +16,7 @@ In the dropdown menu, click on the button クラス管理 (Classroom/Class manag
 
 ### Naming and Making
 
-<img src="Brix-Make-Class.gif" alt="Making a class gif" width="500">
+<img src="Brix-Make-Class.gif" alt="Making a class gif" width="700">
 
 1. Click on the クラス追加 button in the top middle of the page.
 2. Enter the name of your class and select when your class will start and finish
@@ -39,6 +39,8 @@ To search for and add a student to your class.
 5. Click the little box next to the student ID then click the **first** 追加
 6. Your student is now in your class
 
+<img src="Brix-Add-Student.gif" alt="Adding student gif" width="700">
+
 ### Adding the Learning Material
 
 1. From your クラス情報設定 (The page with all the buttons), click on コース設定, the button bellow the user button (ユーザー追加)
@@ -50,6 +52,9 @@ _there will be a warning that will pop-up. Don't worry, it just says "Oh by the 
 3. You will see all avaliable learning materials 
 4. Find the course you want and click the 選択 button
 5. Click the　共有 button and accept the warning that pops up
+
+<img src="Brix-Course-Slection.gif" alt="Adding student gif" width="700">
+
 
 ### Adding Due Dates
 
@@ -65,6 +70,7 @@ The amount of sections and the section type (test, lesson, etc.) varries.
 6. Once you have a list you can work with, click the calender icon for the respective unit and choose the start and end date for each unit 
 7. Once you are finished, click the 登録 button near the bottom of the page
 
+<img src="Brix-Unit-Due-Date.gif" alt="Adding student gif" width="700">
 
 ### Adding Goals
 
@@ -85,5 +91,7 @@ The Brix system requires goals for each course/learning material you selected.
 3. The drop down box to the left of the 'point' box is where you can choose 平均 (cumulative adverage) or 最低 (minimum score). I (Justin) assume that the fumulative adverage setting will accept a wide reange of fantastic and terrible grades. Whereas the minimum score measurement wont mark a unit as **passed** if they got a terrible grade on a specific unit
 4. Simmilar to when you set the progress goal, click すべて選択 to select all the units
 5. Finally click the 登録 button and click all the red pop-up buttons
+
+<img src="Brix-Course-Goals.gif" alt="Adding student gif" width="700">
 
 ## <i>And your done!<i>
