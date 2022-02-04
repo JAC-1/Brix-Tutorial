@@ -1,19 +1,22 @@
-## Welcome to GitHub Pages
+# Brix English Tutorial
 
-You can use the [editor on GitHub](https://github.com/JAC-1/Brix-Tutorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### Now with GIFs!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br><br><br><br><br><br><br>
 
-### Markdown
+## Loging In
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Log in with your credentials.
 
-```markdown
-Syntax highlighted code block
+Once logged in, click on the 'gears' at the top right of the screen.
 
-# Header 1
-## Header 2
-### Header 3
+In the dropdown menu, click on the button クラス管理 (Classroom/Class management).
+
+## Making a Class
+
+Click on the 
+
+
 
 - Bulleted
 - List
