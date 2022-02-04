@@ -16,7 +16,7 @@ In the dropdown menu, click on the button クラス管理 (Classroom/Class manag
 
 ### Naming and Making
 
-<img src="Brix-Make-Class.gif" alt="Making a class gif" width="700">
+![Making a class gif](Brix-Make-Class.gif)
 
 1. Click on the クラス追加 button in the top middle of the page.
 2. Enter the name of your class and select when your class will start and finish
@@ -53,7 +53,7 @@ _there will be a warning that will pop-up. Don't worry, it just says "Oh by the 
 4. Find the course you want and click the 選択 button
 5. Click the　共有 button and accept the warning that pops up
 
-<img src="Brix-Course-Slection.gif" alt="Adding student gif" width="700">
+<img src="Brix-Course-Selection.gif" alt="Adding student gif" width="700">
 
 
 ### Adding Due Dates
