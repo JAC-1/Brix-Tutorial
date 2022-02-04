@@ -1,3 +1,5 @@
+# The English Brix Guide to Greatness 
+
 ## Now with GIFs!
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
