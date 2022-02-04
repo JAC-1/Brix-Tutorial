@@ -1,8 +1,8 @@
 # Brix English Tutorial
 
-##### Now with GIFs!
+## Now with GIFs!
 
-<br><br><br><br><br><br><br>
+
 
 ## Loging In
 
