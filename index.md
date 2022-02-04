@@ -16,7 +16,7 @@ In the dropdown menu, click on the button クラス管理 (Classroom/Class manag
 
 ### Naming and Making
 
-<img src="/docs/assets/Brix-Make-Class.gif" alt="Making a class gif" width="700">
+![Making a class gif](/docs/assets/Brix-Make-Class.gif)
 
 1. Click on the クラス追加 button in the top middle of the page.
 2. Enter the name of your class and select when your class will start and finish
@@ -39,7 +39,7 @@ To search for and add a student to your class.
 5. Click the little box next to the student ID then click the **first** 追加
 6. Your student is now in your class
 
-<img src="/docs/assets/Brix-Add-Student.gif" alt="Adding student gif" width="700">
+![Adding Student gif](/docs/assets/Brix-Add-Student.gif)
 
 ### Adding the Learning Material
 
