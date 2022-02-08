@@ -117,7 +117,7 @@ The Brix system requires goals for each course/learning material you selected. T
 
 ![Getting a General Student Report gif](/docs/assets/General-Grades-Searching.gif)
 
-_Table (left to right): [User id, Name, Type (Student/TA), regisetration status, validity, times accessed/studied, average daily study time, average weekly study time, percentage of completion, score, display student's homepage, message, comment, temporary password (first password)]_
+_Table (left to right): [User id, Name, Type (Student/TA), registration status, validity, times accessed/studied, average daily study time, average weekly study time, percentage of completion, score, display student's homepage, message, comment, temporary password (first password)]_
 
 Clicking on `編集` in the `メッセージ` or `総評` section will allow you to send a message to the student.
 
