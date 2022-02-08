@@ -96,35 +96,35 @@ The Brix system requires goals for each course/learning material you selected. T
 
 <br>
 <br>
+<hr>
+<br>
 <br>
 
 # Checking On Your Students
 
-After you've created your class and added your students, you'll have to check on their progress from time to time.
 
 ### Grades and Progress
 
-1. From the Class Settings Page click the 学習実績・解析 on the right column 
-2. Click the first button 学習者の画面表示
+1. From the Class Settings Page click the `学習実績・解析` on the right column 
+2. Click the first button `学習者の画面表示`
 3. Search for your student by using the drop down boxes
 
 ![Searching for Students](/docs/assets/General-Grades-Menu-Nav.gif)
 
-<h4 style="font-weight: bold; color: red;">Return lists of students by choosing で始まる and entering vague searches</h4> (eg. "s")
+<h4 style="font-weight: bold; color: blue;">Return lists of students by entering vague searches</h4>
 
 4. Choose the start and end dates for the report
-5. Click the 一覧表示 button (bars next to the name)
+5. Click the `一覧表示` button (bars next to the name)
 
 ![Getting a General Student Report gif](/docs/assets/General-Grades-Searching.gif)
 
-Table (left to right):
-[User id, Name, Type (Student/TA), regisetration status, validity, times accessed/studied, average daily study time, average weekly study time, percentage of completion, score, display student's homepage, message, comment, temporary password (first password)] 
+<i>Table (left to right): [User id, Name, Type (Student/TA), regisetration status, validity, times accessed/studied, average daily study time, average weekly study time, percentage of completion, score, display student's homepage, message, comment, temporary password (first password)] </i>
 
-Clicking on `編集` in the `メッセージ` or `` section will allow you to send a message to the student.
+Clicking on `編集` in the `メッセージ` or `総評` section will allow you to send a message to the student.
 
-Clicking on `表示` in the `総評` section will allow you to see what the student sees when they login.
+Clicking on `表示` in the `現在学習画面` section will allow you to see what the student sees when they login.
 
-Clicking on the `CSVへ保存` will save the results in a CSV file.
+Clicking on `CSVへ保存` will save the results in a CSV file.
 
 ### Checking Specific Courses
 
@@ -138,7 +138,7 @@ In the `学習実績一覧` section, the teacher/instructor can access grades fo
 3. Search for your student(s)
 4. Narrow your search by choosing a specific date and time
 5. Choose the course along with the specific part, unit, section and BRIX
-6. click the 一覧表示 button 
+6. click the `一覧表示` button 
 
 ![Checking Specific Courses gif](/docs/assets/Specific-Grades-Searching.gif)
 
