@@ -91,3 +91,17 @@ The Brix system requires goals for each course/learning material you selected. T
 
 
 ## <i>And your done!<i>
+
+# Checking On Your Students
+
+After you've created your class and added your students, you'll have to check on their progress from time to time.
+
+### Grades and Progress
+
+1. From the Class Settings Page click the 学習実績・解析 on the right column 
+2. Click the first button 学習者の画面表示
+3. Search for your student by using the drop down boxes
+
+<h4 style="font-weight: bold; color: red;">Choosing the で始まる option and searching the beginning or first few letters/numbers of a list of IDs, will all students with said letters / numbers</h4>
+
+4. 
