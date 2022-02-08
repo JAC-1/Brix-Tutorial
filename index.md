@@ -1,4 +1,3 @@
-<header><div style="align-text: center;">Test</div></header>
 
 # The English Brix Guide to Greatness 
 
