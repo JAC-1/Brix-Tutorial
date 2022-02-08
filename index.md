@@ -1,3 +1,5 @@
+<header><div style="align-text: center;">Test</div></header>
+
 # The English Brix Guide to Greatness 
 
 ## Logging In
@@ -102,6 +104,70 @@ After you've created your class and added your students, you'll have to check on
 2. Click the first button 学習者の画面表示
 3. Search for your student by using the drop down boxes
 
+![Searching for Students](/docs/assets/General-Grades-Menu-nav.gif)
+
 <h4 style="font-weight: bold; color: red;">Choosing the で始まる option and searching the beginning or first few letters/numbers of a list of IDs, will all students with said letters / numbers</h4>
 
-4. 
+4. Choose the start and end dates for the report
+5. Click the 一覧表示 button (bars next to the name)
+
+![Getting a General Student Report gif](/docs/assets/General-Grades-Searching.gif)
+
+The table from left to right:
+[User id, Name, Type (Student/TA), regisetration status, validity, times accessed/studied, average daily study time, average weekly study time, percentage of completion, score, display student's homepage, message, comment, temporary password (first password)] 
+
+Clicking on `編集` in the `message` or `comment` section will allow you to send a message to the student.
+
+Clicking on `表示` in the `desplay student's homepage` section will allow you to see what the student sees when they login.
+
+There is an option feature that allows you to export your data to CSV
+
+### Checking Specific Courses
+
+The instructor/teacher can choose to display specific goals for specific classes in the `学習実績一覧` section.
+
+1. From the class main menu, click `学習実績・解析`
+2. Click the second button `学習実績一覧`
+
+![Checking Specific Courses gif](/docs/assets/Specific-Grades-Menu-Nav.gif)
+
+3. Search for your student(s)
+4. Narrow your search by choosing a specific date and time
+5. Choose the course along with the specific part, unit, section and BRIX
+6. click the 一覧表示 button 
+
+![Checking Specific Courses gif](/docs/assets/Specific-Grades-Searching.gif)
+
+Similar to the Grades and Progress display, the chart from left to right, reads as follows:
+
+[user id, name, type (student / TA), enrollment status, validity, times accessed/ study, time elapsed, percentage of completion, score]
+
+If the course you chose was TOEIC, there is a special option for exporting the results to csv, which lists all the parts and quizes in one spreadsheet. 
+
+
+
+
+
+<h4 style="font-weight: bold; color: red;">The other buttons in the grades section give more detailed reports, which are probably not necessary for standard class evaluation.</h4>
+
+
+### Automated reports
+
+The final button on the Grades and progress page allows you to set a date and time for automating reports. But so far, I (Justin) haven't gotten it to work.
+
+## Sending and Posting Messages
+
+The Teacher can send messages to all, or a selection of, his/her students.
+
+1. From the Class Management page `クラス情報設定` click `お知らせ一覧`
+2. Click the button with the  
+🖊️ , `お知らせ追加`
+
+![Sending Messages gif](/docs/assets/Messages-Menu-Nav.gif)
+
+3. Select the post's start and end date
+4. Type you message in the box and click `登録`
+5. The message will show up in the Student's class view
+
+
+![Sending Messages gif](/docs/assets/Messages-Make.gif)
